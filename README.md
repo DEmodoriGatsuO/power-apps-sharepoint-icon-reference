@@ -72,8 +72,5 @@ Contributions are welcome! To contribute:
 ```
 
 ```plaintext
-$"https://static2.sharepointonline.com/files/fabric/assets/item-types/24/{Coalesce(
-    ThisItem.Value,
-    "genericfile"
-)}.svg"
+["video","zip","code","vector","photo","csv","genericfile","docx","dotx","model","email","rtf","presentation","txt","audio","pdf","potx","pptx","ppsx","vsdx","xlsx"]
 ```
